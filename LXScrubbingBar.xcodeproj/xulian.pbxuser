@@ -1,0 +1,193 @@
+// !$*UTF8*$!
+{
+	256AC3D80F4B6AC300CF3369 /* LXScrubbingBarAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {911, 522}}";
+			sepNavSelRange = "{521, 35}";
+			sepNavVisRange = "{0, 562}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* LXScrubbingBarAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {911, 602}}";
+			sepNavSelRange = "{1206, 0}";
+			sepNavVisRange = "{91, 1175}";
+			sepNavWindowFrame = "{{38, 188}, {1066, 564}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = A7AF16F411E3D5A6004B870B /* LXScrubbingBar */;
+		activeTarget = 8D1107260486CEB800E47090 /* LXScrubbingBar */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* LXScrubbingBar */,
+		);
+		codeSenseManager = A7AF170411E3D5B7004B870B /* Code sense */;
+		executables = (
+			A7AF16F411E3D5A6004B870B /* LXScrubbingBar */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					10,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 300258771;
+			PBXWorkspaceStateSaveDate = 300258771;
+		};
+		perUserProjectItems = {
+			A7416B0C11E595BB00922DC6 /* PBXTextBookmark */ = A7416B0C11E595BB00922DC6 /* PBXTextBookmark */;
+			A779D12F11E58F2800847766 /* PlistBookmark */ = A779D12F11E58F2800847766 /* PlistBookmark */;
+			A779D1EB11E5954300847766 /* PBXTextBookmark */ = A779D1EB11E5954300847766 /* PBXTextBookmark */;
+			A779D1EC11E5954300847766 /* PBXTextBookmark */ = A779D1EC11E5954300847766 /* PBXTextBookmark */;
+			A779D1ED11E5954300847766 /* PBXTextBookmark */ = A779D1ED11E5954300847766 /* PBXTextBookmark */;
+			A7A67E8511E595F9008F41B1 /* PBXTextBookmark */ = A7A67E8511E595F9008F41B1 /* PBXTextBookmark */;
+		};
+		sourceControlManager = A7AF170311E3D5B7004B870B /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* LXScrubbingBar */ = {
+		activeExec = 0;
+		executables = (
+			A7AF16F411E3D5A6004B870B /* LXScrubbingBar */,
+		);
+	};
+	A7416B0C11E595BB00922DC6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A7AF170611E3D5C0004B870B /* LXScrubbingBar.m */;
+		name = "LXScrubbingBar.m: 72";
+		rLen = 0;
+		rLoc = 1629;
+		rType = 0;
+		vrLen = 793;
+		vrLoc = 733;
+	};
+	A779D12F11E58F2800847766 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* LXScrubbingBar-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleInfoDictionaryVersion,
+		);
+		name = "/Users/xulian/Projects/LXScrubbingBar/LXScrubbingBar-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	A779D1EB11E5954300847766 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* LXScrubbingBarAppDelegate.h */;
+		name = "LXScrubbingBarAppDelegate.h: 21";
+		rLen = 35;
+		rLoc = 521;
+		rType = 0;
+		vrLen = 562;
+		vrLoc = 0;
+	};
+	A779D1EC11E5954300847766 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* LXScrubbingBarAppDelegate.m */;
+		name = "LXScrubbingBarAppDelegate.m: 38";
+		rLen = 0;
+		rLoc = 1206;
+		rType = 0;
+		vrLen = 1175;
+		vrLoc = 91;
+	};
+	A779D1ED11E5954300847766 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A7AF170511E3D5C0004B870B /* LXScrubbingBar.h */;
+		name = "LXScrubbingBar.h: 24";
+		rLen = 39;
+		rLoc = 446;
+		rType = 0;
+		vrLen = 491;
+		vrLoc = 0;
+	};
+	A7A67E8511E595F9008F41B1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A7AF170611E3D5C0004B870B /* LXScrubbingBar.m */;
+		name = "LXScrubbingBar.m: 72";
+		rLen = 1;
+		rLoc = 1628;
+		rType = 0;
+		vrLen = 941;
+		vrLoc = 1330;
+	};
+	A7AF16F411E3D5A6004B870B /* LXScrubbingBar */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = LXScrubbingBar;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	A7AF170311E3D5B7004B870B /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	A7AF170411E3D5B7004B870B /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	A7AF170511E3D5C0004B870B /* LXScrubbingBar.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {911, 522}}";
+			sepNavSelRange = "{446, 39}";
+			sepNavVisRange = "{0, 491}";
+		};
+	};
+	A7AF170611E3D5C0004B870B /* LXScrubbingBar.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {911, 2366}}";
+			sepNavSelRange = "{1628, 1}";
+			sepNavVisRange = "{1330, 941}";
+		};
+	};
+}
